@@ -6,7 +6,7 @@ I'm a passionate developer focusing on **Java** backend and **React** frontend d
 - 🔭 I'm currently working on building professional Java & React applications.
 - 🌱 I'm currently learning advanced architectural patterns and system design.
 - 💬 Ask me about **Java, HTML/CSS, and React**.
-- 📫 How to reach me: [Your Email/LinkedIn Placeholder]
+- 📫 How to reach me: [EMAIL_ADDRESS]
 
 ---
 
@@ -51,9 +51,9 @@ Check out my problem-solving journey on LeetCode!
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaoSonn59/CaoSonn59/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaoSonn59/CaoSonn59/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CaoSonn59/CaoSonn59/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaoSonn59/Caosonn59/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaoSonn59/Caosonn59/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CaoSonn59/Caosonn59/output/github-snake.svg" />
 </picture>
 
 ---
