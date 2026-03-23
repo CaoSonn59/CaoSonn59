@@ -6,7 +6,7 @@ I'm a passionate developer focusing on **Java** backend and **React** frontend d
 - 🔭 I'm currently working on building professional Java & React applications.
 - 🌱 I'm currently learning advanced architectural patterns and system design.
 - 💬 Ask me about **Java, HTML/CSS, and React**.
-- 📫 How to reach me: [EMAIL_ADDRESS]
+- 📫 How to reach me: [Caoson1912@gmail.com]
 
 ---
 
@@ -20,20 +20,11 @@ I'm a passionate developer focusing on **Java** backend and **React** frontend d
 
 ---
 
-### 🏆 LeetCode Profile
-Check out my problem-solving journey on LeetCode!
+### 🏆 LeetCode Stats & Streak
 
 <p align="center">
   <a href="https://leetcode.com/u/CaoSonn59/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=CaoSonn59&theme=dark" alt="LeetCode Stats" />
-  </a>
-</p>
-
-### 🔥 LeetCode Streak
-
-<p align="center">
-  <a href="https://leetcode.com/u/CaoSonn59/">
-    <img src="https://leetcard.jacoblin.cool/CaoSonn59?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Streak" />
+    <img src="https://leetcard.jacoblin.cool/CaoSonn59?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Stats & Streak" />
   </a>
 </p>
 
