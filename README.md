@@ -24,7 +24,7 @@ I'm a passionate developer focusing on **Java** backend and **React** frontend d
 
 <p align="center">
   <a href="https://leetcode.com/u/CaoSonn59/">
-    <img src="https://leetcard.jacoblin.cool/CaoSonn59?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Stats & Streak" />
+    <img src="https://leetcard.jacoblin.cool/CaoSonn59?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats & Activity" />
   </a>
 </p>
 
