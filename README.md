@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sơn (Caosonn59)!
+# 👋 Hi there, I'm Sơn (CaoSonn59)!
 
 ### 🚀 About Me
 I'm a passionate developer focusing on **Java** backend and **React** frontend development. I love building high-performance applications and solving complex problems.
