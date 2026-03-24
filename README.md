@@ -1,13 +1,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+S%C6%A1n+(CaoSonn59);Java+Backend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi%2C+I'm+S%C6%A1n+(CaoSonn59);Java+Backend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```java
 public class CaoSonn59 {
@@ -22,19 +22,19 @@ public class CaoSonn59 {
     }
     
     public String getFunFact() {
-        return "I solve LeetCode problems for fun 🧩";
+        return "I solve LeetCode problems for fun";
     }
 }
 ```
 
-- 🔭 Currently working on **Java backend applications & RESTful APIs**
-- 🌱 Learning **Spring Boot, Microservices & System Design**
-- 💡 Love solving algorithmic problems on **LeetCode**
-- 📫 Reach me at **Caoson1912@gmail.com**
+- Currently working on **Java backend applications & RESTful APIs**
+- Learning **Spring Boot, Microservices & System Design**
+- Love solving algorithmic problems on **LeetCode**
+- Reach me at **Caoson1912@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Java, JavaScript, HTML5, CSS3
 - **Frameworks & Libraries:** Spring Boot, React
@@ -42,7 +42,7 @@ public class CaoSonn59 {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Caosonn59&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
@@ -50,10 +50,10 @@ public class CaoSonn59 {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caosonn59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caosonn59&show_icons=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caosonn59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
 </div>
 
@@ -67,7 +67,7 @@ public class CaoSonn59 {
 
 ---
 
-## 🏅 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/u/CaoSonn59/">
@@ -77,7 +77,7 @@ public class CaoSonn59 {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -89,7 +89,7 @@ public class CaoSonn59 {
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - **GitHub:** [Caosonn59](https://github.com/Caosonn59)
 - **Email:** [Caoson1912@gmail.com](mailto:Caoson1912@gmail.com)
