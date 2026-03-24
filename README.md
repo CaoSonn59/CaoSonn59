@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,7 +17,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## 👤 About Me
 
 ```java
 public class CaoSonn59 {
