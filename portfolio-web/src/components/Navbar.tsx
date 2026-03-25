@@ -5,6 +5,7 @@ const navLinks = [
   { label: 'About', href: '#about' },
   { label: 'Skills', href: '#skills' },
   { label: 'Projects', href: '#projects' },
+  { label: 'Experience', href: '#experience' },
   { label: 'LeetCode', href: '#leetcode' },
   { label: 'Contact', href: '#contact' },
 ]
@@ -12,6 +13,7 @@ const navLinks = [
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
+  const [activeSection, setActiveSection] = useState('')
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20)
@@ -19,15 +21,42 @@ const Navbar = () => {
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
+  // Intersection Observer for active section
+  useEffect(() => {
+    const sections = navLinks.map(link => document.querySelector(link.href.replace('#', '#')))
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            setActiveSection(`#${entry.target.id}`)
+          }
+        })
+      },
+      { rootMargin: '-30% 0px -60% 0px', threshold: 0 }
+    )
+
+    sections.forEach(section => {
+      if (section) observer.observe(section)
+    })
+
+    return () => observer.disconnect()
+  }, [])
+
   return (
     <nav className={`nav ${scrolled ? 'nav--scrolled' : ''}`}>
       <div className="nav__inner">
-        <a href="#" className="nav__logo">CS59</a>
+        <a href="#" className="nav__logo">
+          <span className="nav__logo-text">CS59</span>
+        </a>
 
         {/* Desktop links */}
         <div className="nav__links">
           {navLinks.map(link => (
-            <a key={link.href} href={link.href} className="nav__link">
+            <a
+              key={link.href}
+              href={link.href}
+              className={`nav__link ${activeSection === link.href ? 'nav__link--active' : ''}`}
+            >
               {link.label}
             </a>
           ))}
@@ -58,7 +87,7 @@ const Navbar = () => {
               <a
                 key={link.href}
                 href={link.href}
-                className="nav__mobile-link"
+                className={`nav__mobile-link ${activeSection === link.href ? 'nav__link--active' : ''}`}
                 onClick={() => setIsOpen(false)}
               >
                 {link.label}

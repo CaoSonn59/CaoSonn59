@@ -3,19 +3,38 @@ import { motion } from 'framer-motion'
 const skills = [
   {
     category: 'Backend',
-    items: ['Java', 'Spring Boot', 'REST APIs', 'JPA / Hibernate'],
+    items: [
+      { name: 'Java', level: 85 },
+      { name: 'Spring Boot', level: 75 },
+      { name: 'REST APIs', level: 80 },
+      { name: 'JPA / Hibernate', level: 70 },
+    ],
   },
   {
     category: 'Frontend',
-    items: ['React', 'JavaScript', 'HTML5', 'CSS3'],
+    items: [
+      { name: 'React', level: 65 },
+      { name: 'JavaScript', level: 70 },
+      { name: 'HTML5', level: 80 },
+      { name: 'CSS3', level: 75 },
+    ],
   },
   {
     category: 'Database',
-    items: ['MySQL', 'Spring Data JPA'],
+    items: [
+      { name: 'MySQL', level: 70 },
+      { name: 'Spring Data JPA', level: 65 },
+    ],
   },
   {
     category: 'Tools',
-    items: ['Git', 'IntelliJ IDEA', 'VS Code', 'Postman', 'Maven'],
+    items: [
+      { name: 'Git', level: 75 },
+      { name: 'IntelliJ IDEA', level: 80 },
+      { name: 'VS Code', level: 85 },
+      { name: 'Postman', level: 75 },
+      { name: 'Maven', level: 65 },
+    ],
   },
 ]
 
@@ -42,11 +61,25 @@ const Skills = () => {
               className="skill-card"
             >
               <h3 className="skill-card__title">{group.category}</h3>
-              <ul className="skill-card__list">
-                {group.items.map(item => (
-                  <li key={item} className="skill-card__item">{item}</li>
+              <div className="skill-card__list">
+                {group.items.map((item, j) => (
+                  <div key={item.name} className="skill-bar">
+                    <div className="skill-bar__header">
+                      <span className="skill-bar__name">{item.name}</span>
+                      <span className="skill-bar__level">{item.level}%</span>
+                    </div>
+                    <div className="skill-bar__track">
+                      <motion.div
+                        className="skill-bar__fill"
+                        initial={{ width: 0 }}
+                        whileInView={{ width: `${item.level}%` }}
+                        viewport={{ once: true }}
+                        transition={{ duration: 0.8, delay: i * 0.1 + j * 0.05, ease: 'easeOut' }}
+                      />
+                    </div>
+                  </div>
                 ))}
-              </ul>
+              </div>
             </motion.div>
           ))}
         </div>
