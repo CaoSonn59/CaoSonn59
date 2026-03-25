@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from 'react'
 import { motion } from 'framer-motion'
-import { Send, Mail, MapPin, Github, ExternalLink } from 'lucide-react'
+import { Send, Mail, MapPin, GitFork, ExternalLink } from 'lucide-react'
 
 const Contact = () => {
   const [form, setForm] = useState({ name: '', email: '', message: '' })
@@ -46,7 +46,7 @@ const Contact = () => {
 
             <div className="contact__socials">
               <a href="https://github.com/CaoSonn59" target="_blank" rel="noopener noreferrer" className="contact__social-link">
-                <Github size={18} />
+                <GitFork size={18} />
                 <span>GitHub</span>
               </a>
               <a href="https://leetcode.com/u/CaoSonn59/" target="_blank" rel="noopener noreferrer" className="contact__social-link">
