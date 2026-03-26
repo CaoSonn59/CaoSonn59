@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=CaoSonn59&fontSize=42&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF&desc=Java%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=56&descSize=18" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CaoSonn59&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -91,16 +98,25 @@ public class CaoSonn59 {
 
 ## Let's Connect!
 
-- **GitHub:** [Caosonn59](https://github.com/Caosonn59)
-- **Email:** [Caoson1912@gmail.com](mailto:Caoson1912@gmail.com)
-- **LeetCode:** [CaoSonn59](https://leetcode.com/u/CaoSonn59/)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caosonn59)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Caoson1912@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CaoSonn59/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://caosonn59.github.io/Caosonn59/portfolio-web/)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 </div>
