@@ -22,7 +22,7 @@ public class CaoSonn59 {
     String role = "Java Backend Developer";
     String[] languages = {"Java", "JavaScript", "HTML/CSS"};
     String[] frameworks = {"Spring Boot", "React"};
-    String education = "Computer Science Student";
+    String education = "Software Engineering Student at PTIT";
     
     public String getCurrentFocus() {
         return "Building scalable backend systems with Java & Spring Boot";

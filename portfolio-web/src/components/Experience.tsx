@@ -8,13 +8,13 @@ const timeline = [
     tags: ['Spring Boot', 'JPA', 'MySQL'],
   },
   {
-    year: '2023 — Present',
-    title: 'Computer Science Student',
+    year: '2024 — Present',
+    title: 'Software Engineering Student at PTIT',
     description: 'Studying core CS fundamentals including Data Structures, Algorithms, OOP, and Database Management.',
     tags: ['DSA', 'OOP', 'DBMS'],
   },
   {
-    year: '2023 — Present',
+    year: '2025 — Present',
     title: 'LeetCode Practice',
     description: 'Consistently solving algorithmic challenges to sharpen problem-solving skills and prepare for technical interviews.',
     tags: ['Algorithms', 'Problem Solving'],
