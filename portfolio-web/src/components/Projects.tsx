@@ -16,6 +16,34 @@ const projects = [
       'Transaction history tracking',
     ],
   },
+  {
+    title: 'FourSeasons Resort',
+    description:
+      'A modern resort & hotel landing page featuring elegant UI design with smooth animations, responsive layout, and interactive booking sections. Built to showcase frontend development skills.',
+    tech: ['JavaScript', 'HTML5', 'CSS3', 'Responsive Design'],
+    github: 'https://github.com/CaoSonn59/FourSeasons-Resort',
+    status: 'completed' as const,
+    highlights: [
+      'Elegant resort-themed UI with premium aesthetics',
+      'Fully responsive across all devices',
+      'Smooth scroll animations & interactive elements',
+      'Clean, maintainable code structure',
+    ],
+  },
+  {
+    title: 'Jennie Project',
+    description:
+      'A creative fan page project with dynamic content presentation, image galleries, and modern web design techniques. Demonstrates proficiency in frontend technologies and UI/UX design.',
+    tech: ['JavaScript', 'HTML5', 'CSS3', 'Web Design'],
+    github: 'https://github.com/CaoSonn59/Jennie-Project',
+    status: 'completed' as const,
+    highlights: [
+      'Creative & visually appealing layout design',
+      'Dynamic image galleries with smooth transitions',
+      'Modern CSS techniques & animations',
+      'Mobile-friendly responsive design',
+    ],
+  },
 ]
 
 const statusConfig = {
