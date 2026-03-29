@@ -58,6 +58,34 @@ const projects = [
       'Responsive layout for all screen sizes',
     ],
   },
+  {
+    title: 'Everyday Blissify',
+    description:
+      'A wellness & meditation web app featuring guided meditation categories, interactive music player with seek & volume controls, testimonial slider, pricing plans, FAQ accordion, and a blog section. Fully responsive with mobile navigation.',
+    tech: ['HTML5', 'CSS3', 'JavaScript', 'jQuery'],
+    github: '',
+    status: 'completed' as const,
+    highlights: [
+      'Interactive music player with custom controls',
+      'Animated FAQ accordion & testimonial slider',
+      'Subscription pricing with radio selection',
+      'Responsive design with mobile hamburger menu',
+    ],
+  },
+  {
+    title: 'LEGO® Serious Play®',
+    description:
+      'A professional Vietnamese landing page for LEGO® Serious Play® training methodology. Features contact form, image galleries with overlay effects, training process timeline, news section, and scroll-to-top functionality.',
+    tech: ['HTML5', 'CSS3', 'JavaScript', 'jQuery'],
+    github: '',
+    status: 'completed' as const,
+    highlights: [
+      'Professional business landing page design',
+      'Image galleries with hover overlay effects',
+      'Structured training process timeline',
+      'Contact form with validation',
+    ],
+  },
 ]
 
 const statusConfig = {
@@ -97,15 +125,17 @@ const Projects = () => {
                       {status.label}
                     </span>
                   </div>
-                  <a
-                    href={project.github}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="project-card__link"
-                  >
-                    <ExternalLink size={14} />
-                    View on GitHub
-                  </a>
+                  {project.github && (
+                    <a
+                      href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="project-card__link"
+                    >
+                      <ExternalLink size={14} />
+                      View on GitHub
+                    </a>
+                  )}
                 </div>
 
                 <p className="project-card__desc">{project.description}</p>
