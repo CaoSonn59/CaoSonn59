@@ -44,6 +44,20 @@ const projects = [
       'Mobile-friendly responsive design',
     ],
   },
+  {
+    title: 'Disney React',
+    description:
+      'A Disney-themed web application built with React, featuring dynamic content rendering, component-based architecture, and a visually engaging UI inspired by the Disney brand.',
+    tech: ['React', 'JavaScript', 'CSS3', 'Component Architecture'],
+    github: 'https://github.com/CaoSonn59/Disney-React',
+    status: 'completed' as const,
+    highlights: [
+      'Component-based architecture with React',
+      'Dynamic content rendering & state management',
+      'Disney-inspired premium UI/UX design',
+      'Responsive layout for all screen sizes',
+    ],
+  },
 ]
 
 const statusConfig = {

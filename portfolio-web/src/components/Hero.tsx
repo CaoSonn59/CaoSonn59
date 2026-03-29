@@ -10,7 +10,7 @@ const roles = [
 
 const stats = [
   { value: 50, suffix: '+', label: 'LeetCode Problems' },
-  { value: 5, suffix: '+', label: 'Projects Built' },
+  { value: 6, suffix: '+', label: 'Projects Built' },
   { value: 4, suffix: '+', label: 'Technologies' },
 ]
 
