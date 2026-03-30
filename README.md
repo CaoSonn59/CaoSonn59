@@ -46,9 +46,9 @@ public class CaoSonn59 {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200"><b>💻 Languages</b></td>
-      <td align="center" width="200"><b>🛠️ Frameworks</b></td>
-      <td align="center" width="200"><b>🗄️ DB & Tools</b></td>
+      <td align="center" width="200"><b>Languages</b></td>
+      <td align="center" width="200"><b>Frameworks</b></td>
+      <td align="center" width="200"><b>DB & Tools</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -73,7 +73,7 @@ public class CaoSonn59 {
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - [x] Build a RESTful Banking API with Spring Boot
 - [x] Create a responsive portfolio website with React
@@ -84,21 +84,10 @@ public class CaoSonn59 {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/CaoSonn59/banking-system-interview-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaoSonn59&repo=banking-system-interview-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/CaoSonn59/Caosonn59">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaoSonn59&repo=Caosonn59&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-</a>
-
-</div>
+## Featured Projects
 
 <details>
-<summary><b>🏦 Banking System API</b> — Spring Boot RESTful API</summary>
+<summary><b>Banking System API</b> — Spring Boot RESTful API</summary>
 <br />
 
 > A complete Banking REST API with account management, deposit/withdraw, internal transfers, and transaction history.
@@ -108,12 +97,12 @@ public class CaoSonn59 {
 | **Architecture** | Clean layered (Controller → Service → Repository) |
 | **Validation** | Jakarta Validation with standardized error responses |
 | **Tech** | `Java 17` `Spring Boot 3` `MySQL` `JPA` `Lombok` |
-| **Status** | ✅ Completed |
+| **Status** | Completed |
 
 </details>
 
 <details>
-<summary><b>🏨 FourSeasons Resort</b> — Modern Landing Page</summary>
+<summary><b>FourSeasons Resort</b> — Modern Landing Page</summary>
 <br />
 
 > An elegant resort landing page with premium UI design, smooth animations, and responsive layout.
@@ -123,12 +112,12 @@ public class CaoSonn59 {
 | **Design** | Premium resort-themed UI with hover effects |
 | **Responsive** | Fully responsive across all devices |
 | **Tech** | `JavaScript` `HTML5` `CSS3` |
-| **Status** | ✅ Completed |
+| **Status** | Completed |
 
 </details>
 
 <details>
-<summary><b>🎬 Disney React</b> — React Web Application</summary>
+<summary><b>Disney React</b> — React Web Application</summary>
 <br />
 
 > A Disney-themed app showcasing component-based architecture and dynamic content rendering.
@@ -138,7 +127,7 @@ public class CaoSonn59 {
 | **Architecture** | Component-based with state management |
 | **Design** | Disney-inspired premium UI/UX |
 | **Tech** | `React` `JavaScript` `CSS3` |
-| **Status** | ✅ Completed |
+| **Status** | Completed |
 
 </details>
 
@@ -204,7 +193,7 @@ public class CaoSonn59 {
 
 ---
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
