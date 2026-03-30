@@ -43,9 +43,104 @@ public class CaoSonn59 {
 
 ## Tech Stack
 
-- **Languages:** Java, JavaScript, HTML5, CSS3
-- **Frameworks & Libraries:** Spring Boot, React
-- **Databases & Tools:** MySQL, Git, VS Code, IntelliJ IDEA, Postman
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200"><b>💻 Languages</b></td>
+      <td align="center" width="200"><b>🛠️ Frameworks</b></td>
+      <td align="center" width="200"><b>🗄️ DB & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- [x] Build a RESTful Banking API with Spring Boot
+- [x] Create a responsive portfolio website with React
+- [ ] Learn Microservices Architecture & Docker
+- [ ] Master Spring Security & JWT Authentication
+- [ ] Explore System Design patterns
+- [ ] Contribute to Open Source projects
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/CaoSonn59/banking-system-interview-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaoSonn59&repo=banking-system-interview-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/CaoSonn59/Caosonn59">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaoSonn59&repo=Caosonn59&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🏦 Banking System API</b> — Spring Boot RESTful API</summary>
+<br />
+
+> A complete Banking REST API with account management, deposit/withdraw, internal transfers, and transaction history.
+
+| Feature | Detail |
+|---------|--------|
+| **Architecture** | Clean layered (Controller → Service → Repository) |
+| **Validation** | Jakarta Validation with standardized error responses |
+| **Tech** | `Java 17` `Spring Boot 3` `MySQL` `JPA` `Lombok` |
+| **Status** | ✅ Completed |
+
+</details>
+
+<details>
+<summary><b>🏨 FourSeasons Resort</b> — Modern Landing Page</summary>
+<br />
+
+> An elegant resort landing page with premium UI design, smooth animations, and responsive layout.
+
+| Feature | Detail |
+|---------|--------|
+| **Design** | Premium resort-themed UI with hover effects |
+| **Responsive** | Fully responsive across all devices |
+| **Tech** | `JavaScript` `HTML5` `CSS3` |
+| **Status** | ✅ Completed |
+
+</details>
+
+<details>
+<summary><b>🎬 Disney React</b> — React Web Application</summary>
+<br />
+
+> A Disney-themed app showcasing component-based architecture and dynamic content rendering.
+
+| Feature | Detail |
+|---------|--------|
+| **Architecture** | Component-based with state management |
+| **Design** | Disney-inspired premium UI/UX |
+| **Tech** | `React` `JavaScript` `CSS3` |
+| **Status** | ✅ Completed |
+
+</details>
 
 ---
 
