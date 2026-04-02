@@ -198,8 +198,8 @@ public class CaoSonn59 {
      3. Thay URL bên dưới bằng domain Vercel của bạn -->
 
 <div align="center">
-  <img src="https://github-readme-stats-caosonn59.vercel.app/api?username=CaoSonn59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-caosonn59.vercel.app/api/top-langs/?username=CaoSonn59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-a9i4x5w65-caosonn59s-projects.vercel.app/api?username=CaoSonn59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-a9i4x5w65-caosonn59s-projects.vercel.app/api/top-langs/?username=CaoSonn59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
