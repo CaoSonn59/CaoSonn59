@@ -53,6 +53,7 @@ public class CaoSonn59 {
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -60,11 +61,13 @@ public class CaoSonn59 {
       <td align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       </td>
     </tr>
@@ -76,7 +79,8 @@ public class CaoSonn59 {
 ## What I'm Working On
 
 - [x] Build a RESTful Banking API with Spring Boot
-- [x] Create a responsive portfolio website with React
+- [x] Create a responsive portfolio website with React & TypeScript
+- [x] Build frontend projects (FourSeasons, Disney, Blissify, LEGO)
 - [ ] Learn Microservices Architecture & Docker
 - [ ] Master Spring Security & JWT Authentication
 - [ ] Explore System Design patterns
@@ -131,6 +135,51 @@ public class CaoSonn59 {
 
 </details>
 
+<details>
+<summary><b>Jennie Project</b> — Creative Fan Page</summary>
+<br />
+
+> A creative fan page with dynamic content, image galleries, and modern web design techniques.
+
+| Feature | Detail |
+|---------|--------|
+| **Design** | Creative & visually appealing layout |
+| **Galleries** | Dynamic image galleries with smooth transitions |
+| **Tech** | `JavaScript` `HTML5` `CSS3` |
+| **Status** | Completed |
+
+</details>
+
+<details>
+<summary><b>Everyday Blissify</b> — Wellness & Meditation App</summary>
+<br />
+
+> A wellness web app with guided meditation, interactive music player, pricing plans, FAQ accordion, and blog section.
+
+| Feature | Detail |
+|---------|--------|
+| **Music Player** | Custom controls with seek & volume |
+| **Interactive** | FAQ accordion, testimonial slider, pricing selection |
+| **Tech** | `HTML5` `CSS3` `JavaScript` `jQuery` |
+| **Status** | Completed |
+
+</details>
+
+<details>
+<summary><b>LEGO® Serious Play®</b> — Professional Landing Page</summary>
+<br />
+
+> A professional Vietnamese landing page for LEGO® Serious Play® training methodology with contact form and image galleries.
+
+| Feature | Detail |
+|---------|--------|
+| **Design** | Professional business landing page |
+| **Features** | Contact form, image overlays, training timeline |
+| **Tech** | `HTML5` `CSS3` `JavaScript` `jQuery` |
+| **Status** | Completed |
+
+</details>
+
 ---
 
 ## GitHub Trophies
@@ -143,13 +192,18 @@ public class CaoSonn59 {
 
 ## GitHub Stats
 
+<!-- 💡 Nếu ảnh stats không hiển thị, hãy tự deploy instance riêng:
+     1. Fork repo: https://github.com/anuraghazra/github-readme-stats
+     2. Deploy lên Vercel với PAT token của bạn
+     3. Thay URL bên dưới bằng domain Vercel của bạn -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaoSonn59&show_icons=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoSonn59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-caosonn59.vercel.app/api?username=CaoSonn59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-caosonn59.vercel.app/api/top-langs/?username=CaoSonn59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaoSonn59&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CaoSonn59&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
