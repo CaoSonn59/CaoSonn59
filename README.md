@@ -192,13 +192,19 @@ public class CaoSonn59 {
 
 ## GitHub Stats
 
-<div align="center">  
-  <img src="https://github-readme-stats-rust-alpha-80.vercel.app/api?username=CaoSonn59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-rust-alpha-80.vercel.app/api/top-langs/?username=CaoSonn59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaoSonn59&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaoSonn59&theme=tokyonight" alt="Top Languages by Repo" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaoSonn59&theme=tokyonight" alt="Top Languages by Commit" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CaoSonn59&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaoSonn59&theme=tokyonight&utcOffset=7" alt="Productive Time" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=CaoSonn59&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaoSonn59&theme=tokyonight" alt="Profile Details" width="95%" />
 </div>
 
 <div align="center">
