@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 
 const Footer = () => {
   return (
-    <footer id="contact" className="footer">
+    <footer className="footer">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -24,7 +24,7 @@ const Footer = () => {
             Caoson1912@gmail.com
           </a>
           <div className="footer__socials">
-            <a href="https://github.com/Caosonn59" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/CaoSonn59" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
             <span className="footer__divider">·</span>

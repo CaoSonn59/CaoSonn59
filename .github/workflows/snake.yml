@@ -1,11 +1,15 @@
 name: Generate Snake Animation
 
 on:
+  # Chạy sau mỗi push vào main
   push:
     branches:
       - main
+  # Chạy 2 lần/ngày (6:00 và 18:00 UTC = 13:00 và 1:00 giờ VN)
+  # để đảm bảo contribution data luôn cập nhật
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,21 +19,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Generate Snake Game from GitHub Contribution Grid
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: CaoSonn59
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify SVG files exist
+        run: |
+          if [ ! -s dist/github-snake.svg ] || [ ! -s dist/github-snake-dark.svg ]; then
+            echo "ERROR: SVG files are missing or empty!"
+            exit 1
+          fi
+          echo "SVG files generated successfully."
+          ls -la dist/
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "chore: update snake animation"
